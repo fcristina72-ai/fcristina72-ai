@@ -1,4 +1,8 @@
 # Flávia Cristina Paz
+Estudante da TD-2026-01
+
+# Repo do exercicio 1.1 da disciplina Transformacao Digital.
+
 
 
 ### O que eu entendi dos comandos executados:
