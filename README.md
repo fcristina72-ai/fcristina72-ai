@@ -13,8 +13,4 @@ Depois de rodar os comandos, entendi que o processo do Git funciona como linhas 
 
 * **git push:** É o comando que pega tudo o que eu salvei localmente (os commits) e "migra" para a nuvem, atualiza o meu repositório no site do GitHub para que outras pessoas consigam ver.
 
-echo "# Meu Primeiro Repositorio" > README.md
-echo "" >> README.md
-echo "Repo do exercicio 1.1 da disciplina Transformacao Digital." >> README.md
-git add README.md
-git commit -m "feat: README inicial"
+
